@@ -1,9 +1,7 @@
 # Hi, I'm Michael
 
-Senior Performance Data Scientist with 6+ years in elite football, currently leading a data team in the Sport Science and Medical Department at Leicester City Football Club. I turn physical performance data into insight that staff can act on, from the pipelines underneath to the apps and reports they use day to day.
+I’m a senior data scientist with six years in elite football, currently leading data insight for the Sport Science and Medical departments at Leicester City. I build the pipelines, models and self-serve tools that inform decision-making, and I take just as much care over communicating the results, turning analysis into clear messages that stakeholders can act on. I’ve line managed students who have gone on to build their own careers in football. This year I completed my PhD on the context behind physical performance in elite men’s football. It taught me how to plan and frame a performance question: what needs to be measured, which factors contribute, and how to back the answer with mathematical rigour. I apply that same approach to everything I build.
 
-My PhD looked at the context behind physical performance in elite men's football, using clustering, mixture models and mixed models.
-
-Most of my work is in R (Shiny, Quarto, statistical modelling) and SQL.
+Most of my work is in R (Shiny, Quarto, statistical modelling) and SQL. Please see my portfolio for a deeper insight into how I work and what I can produce. 
 
 ### [See my portfolio](https://michaeldavies64.github.io/)
